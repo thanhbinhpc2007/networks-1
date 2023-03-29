@@ -13,6 +13,8 @@ genesis_addresses=(
     "nois17ndyyhdtdx33c5nmnl40eamr9lg35ej7vacpuq"
     "nois1k343zj53k3w3ju58qmgug4kdzlhpf0tymj5r9t"
     "nois1wuyjnslsx64ehn5v8kr9d9wargc3vlea07aqm3"
+    "nois10gzkvkj5q23q5gpk47kftwjvxqhaerxfh2984s"
+    "nois14pwtxds7y72ph2f7gx65wvuxznr24eap8drh5m"
     # Add your address here in a PR
 
 )
